@@ -1,2 +1,2 @@
 # guess-the-number
-itisa game where the user will guess the number the machine choose
+it is a game where the user will guess the number the machine choose
